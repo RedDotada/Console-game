@@ -4,3 +4,5 @@ in this repository 2 games
 random number . You must look at him
 # Words or Veselitsay
 random word . You must look at him
+# words.txt
+It's word for game Words (Veselitsya)

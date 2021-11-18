@@ -5,7 +5,7 @@ data = words.read()
 strwords = (data)
 wordslist = strwords.split(sep=', ')
 word = wordslist[number]
-print(word)
+#print(word)
 
 for i in word:
     pass
